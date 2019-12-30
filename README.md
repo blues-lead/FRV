@@ -1,2 +1,2 @@
 # FRV
-Fundamentals of Robot Vision course
+Assignments of Fundamentals of Robot Vision course
